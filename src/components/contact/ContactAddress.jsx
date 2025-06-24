@@ -103,7 +103,7 @@ const ContactAddress = () => {
                 </p>
                 <p>
                   <i className="bi bi-envelope "></i>
-                  <strong>E-Mail:</strong> salesnht@gmail.com 
+                  <strong>E-Mail:</strong> sales.punjab@dynastyresort.com 
                 </p>
               </address>
             </div>

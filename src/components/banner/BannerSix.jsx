@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import WOW from 'wowjs'; // Import DatePicker styles
+import WOW from 'wowjs';  
 
 function BannerSix() {
     useEffect(() => {
