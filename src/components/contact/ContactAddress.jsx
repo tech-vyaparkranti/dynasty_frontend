@@ -22,13 +22,14 @@ const ContactAddress = () => {
                   <i className="bi bi-telephone-fill "></i>
                   <strong>Complaints:</strong> +91-9873601704, +91-9999835288
                 </p>
-                <p>
-                  <i className="bi bi-person "></i>
-                  <strong>Devender Kumar (G.M.):</strong> +91-9311001704
-                </p>
+                
                 <p>
                   <i className="bi bi-person "></i>
                   <strong>Mehnaz:</strong> +91-9310959763
+                </p>
+                <p>
+                  <i className="bi bi-person "></i>
+                  <strong>Khushbu Sharma:</strong> +91-9910945704
                 </p>
                 <p>
                   <i className="bi bi-envelope "></i>
@@ -47,10 +48,10 @@ const ContactAddress = () => {
             </div>
             <div className="card-body">
               <address>
-                  <p>
+                  {/* <p>
                   <i className="bi bi-geo-alt "></i>
                   <strong>Devender Kumar (G.M.)</strong> 
-                </p>
+                </p> */}
                 <p>
                   <i className="bi bi-telephone-fill "></i>
                    
@@ -58,11 +59,11 @@ const ContactAddress = () => {
                 </p>
                 <p>
                   <i className="bi bi-phone-fill "></i>
-                  <strong>Mobile:</strong> +91-9311001704
+                  <strong>Mobile:</strong> +91-9873601704
                 </p>
                 <p>
                   <i className="bi bi-envelope "></i>
-                  <strong>E-Mail:</strong> gm@dynastyresort.com
+                  <strong>E-Mail:</strong> info@dynastyresort.com
                 </p>
                 {/* <div className="mt-4 pt-2">
                   <div className="alert alert-info">
