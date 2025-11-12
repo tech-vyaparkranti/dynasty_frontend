@@ -16,6 +16,7 @@ import HomeRoom from '../components/room-details/HomeRoom'
 import BookingModal from '../components/header/BookingModal'
 import AwardsSection from '../components/award/AwardsSection';
 import GuestReviewHome from '../components/GuestExperience/GuestReviewHome';
+import RoomCardSlider from '../components/tarrifRoom';
  
  
  
@@ -47,6 +48,7 @@ function HomeTwo() {
         <HeaderOne />
         <BannerTwo />
         <AdvanceForm />
+        <RoomCardSlider/>
         <AboutTwo />
         <FacilitiesTwo />
         <RoomTwo posts={posts}/>

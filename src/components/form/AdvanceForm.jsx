@@ -204,7 +204,7 @@ function AdvanceForm() {
   return (
     <> 
     
-    <div className="rts__section advance__search__section is__home__one">
+    <div className="rts__section advance__search__section is__home__one" style={{ marginBottom : '20px'}}>
       <div className="container">
         <div className="row">
           <form className="advance__search" onSubmit={handleSubmit}  >
